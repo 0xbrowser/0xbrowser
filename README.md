@@ -1,7 +1,9 @@
-<h1>Hi, I'm Yelon🐏</h1>
-<h3>A passionate web3 developer granted by Uniswap Foundation🦄</h3>
+<p>
+  <img src="https://i.imgur.com/Qvy5i1b.gif" alt="gif" width="400"/>
+</p>
 
-🌱 I’m currently learning **Scaffold-ETH 2 🏗️**
+<h3>Hi, this is Yelon🐏</h3>
+🌱 A passionate web3 developer granted by Uniswap Foundation
 
 📫 How to reach me **hongye001@e.ntu.edu.sg**
 
