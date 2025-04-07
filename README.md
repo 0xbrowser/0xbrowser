@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/Qvy5i1b.gif" alt="gif" width="400"/>
 </p>
 
-<h3>Hi, this is Yelon🐏</h3>
+<h3>Hi, I am Yelon🐏</h3>
 🌱 A passionate web3 developer granted by Uniswap Foundation
 
 📫 How to reach me **hongye001@e.ntu.edu.sg**
