@@ -3,13 +3,10 @@
 </p>
 
 <h3>Hi, I am Yelon🐏</h3>
-🌱 Frontend engineer | Web3 developer | ex-Microsoft intern | ex-TrustaLabs intern
-
-🦄 ETHGlobal Singapore 2nd price | ETH Hongkong 2024 3rd price | ETH Beijing 2023
-
-🦙 DeFiLlama contributor
-
-📫 How to reach me **hongye001@e.ntu.edu.sg**
+<p>🌱 Frontend engineer | Web3 developer | ex-Microsoft intern | ex-TrustaLabs intern</p>
+<p>🦄 ETHGlobal Singapore 2nd price | ETH Hongkong 2024 3rd price | ETH Beijing 2023</p>
+<p>🦙 DeFiLlama open source contributor</p>
+<p>📫 How to reach me **hongye001@e.ntu.edu.sg**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
